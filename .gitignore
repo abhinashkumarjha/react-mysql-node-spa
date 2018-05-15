@@ -1,0 +1,14 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/client_spa/node_modules
+
+# testing
+/coverage
+
+# misc
+.DS_Store
+.env
+npm-debug.log*
+client_spa/npm-debug.log*
