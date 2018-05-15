@@ -21,6 +21,6 @@ To start react development server
   npm start #inside client_spa folder, try in different terminal
 To build production version
   npm build #inside client_spa
-  
- Development version SPA is served at htttp://localhost:3000
- Production version is served at http://localhost:8080
+
+Development version SPA is served at htttp://localhost:3000
+Production version is served at http://localhost:8080
